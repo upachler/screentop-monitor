@@ -23,4 +23,4 @@ The waveshare display already has 4x M3 screws and matching spacer nuts. Insert 
 
 ## Modifications
 
-The frame is designed in the awesome [FreeCad](https://www.freecad.org/). The schematic is entirely parametric, so you can modify the frame easily by simply changing a measure to make it fit to your screen. Please mention where your design is based upon if you re-publish (see the [LICENSE](LICENSE.txt))
+The frame is designed in the awesome [FreeCad](https://www.freecad.org/). The schematic is entirely parametric, so you can modify the frame easily by simply changing a measure to make it fit to your screen. Please mention where your design is based upon if you re-publish (see the [LICENSE](LICENSE))
