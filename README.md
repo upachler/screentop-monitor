@@ -7,7 +7,7 @@ This little project is a frame for a small monitor that can be placed your main 
 
 The monitor is useful for video calls or just your todo list - or any other small windows you'd like to have on a small, separate screen.
 
-The frame consists of two poles and to legs, one set for each side. The pole has a little bracket on it's foo that stops the monitor for falling backwards, where the leg supports the pole from behind. When fixed to the display, the setup is quite stable.
+The frame consists of two poles and to legs, one set for each side. The pole has a little bracket on it's foot that stops the monitor from falling backwards, where the leg supports the pole from behind. When fixed to the display, the setup is quite stable.
 
 ## Building
 
